@@ -1,2 +1,2 @@
 # subredditDemo
-Subreddit demo created alongside completing the course from Colt Steele. Using EJS to create template subreddit pages.
+Subreddit demo created as a practice from Colt Steeles course. Using JavaScript, Node (express, ejs).
